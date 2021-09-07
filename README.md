@@ -1,5 +1,5 @@
 # Název
 
 - Autor: 
-- Třída Skupina: 
+- Třída a Skupina: 
 - Addressa na veřejný web: 
